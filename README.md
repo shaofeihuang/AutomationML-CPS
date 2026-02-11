@@ -31,7 +31,7 @@ To make use of this repository:
 
 ## Contribution & Contact
 
-Suggestions, feedback, and contributions are welcome! Please feel free to open an issue via [GitHub Issues](https://github.com/shaofeihuang/AutomationML-CPS/issues) to discuss improvements or report problems.
+Suggestions, feedback, and contributions are welcome! Please feel free to open an issue to discuss improvements or report problems.
 
 ## License
 
